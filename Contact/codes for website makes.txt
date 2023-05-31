@@ -1,0 +1,25 @@
+code for backgroundcolor
+
+<body bgcolor="___">
+
+code for backgroundimage
+
+<body bgimage="___">
+
+*ul */ul- unordered list
+*li */li-list
+*h */h-head
+*h1 */h1-head1
+*h2 */h2-head2
+*h3  "   "   "
+*h4  "   "   "
+*h5  "   "   "
+*h6 and more
+*hr */hr - border line
+*u */u-underline
+*p */p-paragraph
+*c */c-center
+*title */title
+coe for image
+
+<img src="_file name/path__" height:"N"  wiht:"n" border="n">
